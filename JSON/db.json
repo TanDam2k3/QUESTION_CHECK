@@ -1,0 +1,22 @@
+{
+  "question": [
+    {
+      "id": 1,
+      "q": "Câu 1: Theo quan điểm của chủ nghĩa Mác-Lênin thì nguyên nhân chủ yếu làm xuất hiện Nhà nước là:",
+      "a": "Do có sự phân hóa lao động trong xã hội.",
+      "b": "Do có sự phân hóa giai cấp và đấu tranh giai cấp trong xã hội.",
+      "c": "Do nhu cầu về lương thực, con người phải hợp sức lại để phát triển sản xuất.",
+      "d": "Do yêu cầu về bảo đảm an ninh, con người cần nhà nước để tồn tại.",
+      "result": "b"
+    },
+    {
+      "id": "2",
+      "q": "Câu 2: Tổ chức Thị tộc trong xã hội Cộng sản nguyên thủy là:",
+      "a": "Một gia đình gồm nhiều thành viên làm riêng ăn riêng",
+      "b": "Một nhóm người gồm nhiều gia đình có cùng quan hệ huyết thống, sống quây quần làm chung ăn chung.",
+      "c": "Một nhóm người gồm nhiều gia đình do cùng một bà mẹ đẻ ra, nhưng làm riêng ăn riêng.",
+      "d": "Một cộng đồng gồm nhiều gia đình, nhưng có sự phân chia tài sản",
+      "result": "b"
+    }
+  ]
+}
