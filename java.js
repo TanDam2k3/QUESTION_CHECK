@@ -65,8 +65,8 @@ function renderQuestion(question){
             return `
             <div class="container">
                 <div class="row">
-                    <span>${element.q}</span>
-                    <div class="form-group">
+                    <span class="col-12">${element.q}</span>
+                    <div class="form-group col-12">
                         <div class="form-check">
                             <label for="" class="form-check-label">
                                 <input type="radio" onclick="thongBaoo('q${element.id}','thongbao${element.id}')" name="q${+element.id}" id="" value="${element.result}" class="form-check-input">${element.a}
@@ -96,5 +96,5 @@ function renderQuestion(question){
             `
         }
     );
-    document.getElementById("question").innerHTML += listQuestion;
+    document.getElementById("question").innerHTML += listQuestion.join("");
 }

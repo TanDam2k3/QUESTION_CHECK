@@ -17,6 +17,258 @@
       "c": "Một nhóm người gồm nhiều gia đình do cùng một bà mẹ đẻ ra, nhưng làm riêng ăn riêng.",
       "d": "Một cộng đồng gồm nhiều gia đình, nhưng có sự phân chia tài sản",
       "result": "b"
+    },
+    {
+      "id": "3",
+      "q": "Câu 3: Trong các quan điểm phi Mác-xít về nguồn gốc nhà nước thì quan điểm nào được coi là tiến bộ nhất:",
+      "a": "Quan điểm của những nhà nghiên cứu theo thuyết thần học",
+      "b": "Quan điểm của những nhà nghiên cứu theo thuyết gia trưởng",
+      "c": "Quan điểm của những nhà nghiên cứu theo thuyết khế ước xã hội",
+      "d": "Quan điểm của những nhà nghiên cứu theo thuyết bạo lực",
+      "result": "c"
+    },
+    {
+      "id": "4",
+      "q": "Câu 4: Bản chất xã hội của nhà nước được thể hiện:",
+      "a": "Nhà nước là công cụ sắc bén để duy trì sự thống trị giai cấp",
+      "b": "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác",
+      "c": "Nhà nước bảo đảm trật tự an toàn xã hội và giải quyết công việc chung của xã hội",
+      "d": "Nhà nước là một bộ máy cưỡng chế đặc biệt nằm trong tay giai cấp cầm quyền",
+      "result": "c"
+    },
+    {
+      "id": "5",
+      "q": "Câu 5: Đẩy mạnh cải cách thủ tục hành chính, tăng cường hiệu quả hoạt động của bộ máy nhà nước, đặc biệt trong giai đọan hiện nay là nội dung thuộc về:",
+      "a": "Chức năng đối nội của nhà nước",
+      "b": "Quyền hạn của nhà nước đối ngoại",
+      "c": "Chức năng đối ngoại",
+      "d": "Nhiệm vụ của nhà nước",
+      "result": "a"
+    },
+    {
+      "id": "6",
+      "q": "Câu 6: Lịch sử xã hội loài người đã tồn tại ..... kiểu nhà nước, bao gồm các kiểu nhà nước là:",
+      "a": "4 – Chiếm hữu nô lệ - Phong kiến - Tư hữu – Tư bản",
+      "b": "4 - Chủ nô - Chiếm hữu nô lệ - Tư bản - Xã hội chủ nghĩa",
+      "c": "4 − Chiếm hữu nô lệ - Phong kiến - Tư sản - Xã hội chủ nghĩa",
+      "d": "4 - Địa chủ - Nông nô, Phong kiến - Tư bản – Xã hội chủ nghĩa",
+      "result": "c"
+    },
+    {
+      "id": "7",
+      "q": "Câu 7: Chức năng nào dưới đây không phải là chức năng của Quốc hội?",
+      "a": "Chức năng lập pháp",
+      "b": "Chức năng giám sát tối cao",
+      "c": "Chức năng quyết định các vấn đề quan trọng của đất nước",
+      "d": "Chức năng công tố",
+      "result": "d"
+    },
+    {
+      "id": "8",
+      "q": "Câu 8: Quyền lực công cộng đặc biệt của nhà nước được hiểu là:",
+      "a": "Chỉ sử dụng biện pháp cưỡng chế",
+      "b": "Chỉ sử dụng biện pháp thuyết phục, giáo dục",
+      "c": "Chỉ sử dụng quyền lực kinh tế",
+      "d": "Sử dụng sức mạnh cưỡng chế; biện pháp thuyết phục, giáo dục và sử dụng quyền lực kinh tế",
+      "result": "d"
+    },
+    {
+      "id": "9",
+      "q": "Câu 9: Theo quan điểm của chủ nghĩa Mác-Lênin thì nguyên nhân pháp luật ra đời là:",
+      "a": "Do có sự chia rẽ trong xã hội",
+      "b": "Do có sự phân hóa giai cấp và đấu tranh giai cấp trong xã hội.",
+      "c": "Do thượng đế tạo ra.",
+      "d": "Do các thành viên trong xã hội ban hành.",
+      "result": "b"
+    },
+    {
+      "id": "10",
+      "q": "Câu 10: Pháp luật chưa tồn tại trong xã hội nào?",
+      "a": "Xã hội phong kiến",
+      "b": "Xã hội Cộng sản nguyên thủy",
+      "c": "Xã hội Tư bản chủ nghĩa",
+      "d": "Xã hội Chiếm hữu nô lệ",
+      "result": "b"
+    },
+    {
+      "id": "11",
+      "q": "Câu 11: Nhận định nào sau đây ĐÚNG khi bàn về bản chất của pháp luật?",
+      "a": "Pháp luật mang bản chất giai cấp và bản chất xã hội",
+      "b": "Pháp luật luôn chỉ phản ánh ý chí của giai cấp thống trị",
+      "c": "Trong mọi chế độ xã hội, pháp luật là công cụ bảo vệ lợi ích của nhân dân",
+      "d": "Bản chất giai cấp của pháp luật quan trọng hơn bản chất xã hội",
+      "result": "a"
+    },
+    {
+      "id": "12",
+      "q": "Câu 12: Đề cập về mối quan hệ giữa pháp luật và nhà nước, khẳng định nào sau đây là SAI?",
+      "a": "Pháp luật và nhà nước có chung điều kiện ra đời, tồn tại, thay đổi và tiêu vong",
+      "b": "Nhà nước và pháp luật có mối quan hệ tác động qua lại lẫn nhau theo hướng tích cực hoặc tiêu cực",
+      "c": "Pháp luật đứng trên nhà nước vì nó là cơ sở pháp lý thừa nhận sự tồn tại của nhà nước",
+      "d": "Tương ứng với mỗi kiểu nhà nước thì có một kiểu pháp luật",
+      "result": "c"
+    },
+    {
+      "id": "13",
+      "q": "Câu 13: Pháp luật quy định đẳng cấp trong xã hội và đặc quyền, đặc lợi của địa chủ, phong kiến, đây là đặc trưng của kiểu pháp luật nào?",
+      "a": "Pháp luật chủ nô",
+      "b": "Pháp luật phong kiến",
+      "c": "Pháp luật tư sản",
+      "d": "Pháp luật xã hội chủ nghĩa",
+      "result": "b"
+    },
+    {
+      "id": "14",
+      "q": "Câu 14: Kiểu pháp luật và hình thức pháp luật là hai khái niệm:",
+      "a": "Giống nhau",
+      "b": "Khác nhau",
+      "c": "Đối lập nhau",
+      "d": "Tương tự nhau",
+      "result": "b"
+    },
+    {
+      "id": "15",
+      "q": "Câu 15: Hiện nay Nhà nước CHXHCN Việt Nam chủ yếu áp dụng hình thức pháp luật nào?",
+      "a": "Tập quán pháp",
+      "b": "Án lệ",
+      "c": "Văn bản quy phạm pháp luật",
+      "d": "Tiền lệ pháp",
+      "result": "c"
+    },
+    {
+      "id": "16",
+      "q": "Câu 16: Kiểu pháp luật ........thể hiện rõ sự bất bình đẳng giữa hai cấp đối kháng trong xã hội, công khai thừa nhận nô lệ không phải là công dân, họ là tài sản của......",
+      "a": "Phong kiến - Giai cấp địa chủ",
+      "b": "Tư sản - Giai cấp thống trị",
+      "c": "Chủ nô - Giai cấp phong kiến",
+      "d": "Chủ nô - Giai cấp chủ nô",
+      "result": "d"
+    },
+    {
+      "id": "17",
+      "q": "Câu 17: Nhận định nào sau đây là SAI khi đề cập về tập quán pháp?",
+      "a": "Tập quán pháp là hình thức nhà nước thừa nhận một số tập quán lưu truyền trong xã hội và quy định thành cách xử sự chung, được nhà nước bảo đảm thực hiện",
+      "b": "Hình thức pháp luật xuất hiện sớm nhất là tập quán pháp",
+      "c": "Hiện nay hình thức tập quán pháp được sử dụng hạn chế tại một số nước",
+      "d": "Các tập quán đều trở thành pháp luật",
+      "result": "d"
+    },
+    {
+      "id": "18",
+      "q": "Câu 18: Chức năng nào không phải là chức năng của pháp luật?",
+      "a": "Chức năng điều chỉnh các quan hệ xã hội",
+      "b": "Chức năng xây dựng và bảo vệ tổ quốc",
+      "c": "Chức năng bảo vệ các quan hệ xã hội",
+      "d": "Chức năng giáo dục",
+      "result": "b"
+    },
+    {
+      "id": "19",
+      "q": "Câu 19: Tính xác định chặt chẽ về mặt hình thức là thuộc tính (đặc trưng) của:",
+      "a": "Quy phạm đạo đức",
+      "b": "Quy phạm tập quán",
+      "c": "Quy phạm pháp luật",
+      "d": "Quy phạm tôn giáo",
+      "result": "c"
+    },
+    {
+      "id": "20",
+      "q": "Câu 20: Chức năng nào không phải là chức năng của pháp luật?",
+      "a": "Chức năng điều chỉnh các quan hệ xã hội",
+      "b": "Chức năng lập hiến và lập pháp",
+      "c": "Chức năng bảo vệ các quan hệ xã hội",
+      "d": "Chức năng giáo dục",
+      "result": "b"
+    },
+    {
+      "id": "21",
+      "q": "Câu 21: Bộ phận nào sau đây không thể thiếu trong một quy phạm pháp luật?",
+      "a": "Bộ phận giả định và bộ phận chế tài",
+      "b": "Bộ phận giả định",
+      "c": "Bộ phận quy định",
+      "d": "Bộ phận chế tài",
+      "result": "b"
+    },
+    {
+      "id": "22",
+      "q": "Câu 22: Trong một quy phạm pháp luật bộ phận quan trọng nhất là:",
+      "a": "Bộ phận giả định và bộ phận chế tài",
+      "b": "Bộ phận giả định",
+      "c": "Bộ phận quy định",
+      "d": "Bộ phận chế tài",
+      "result": "c"
+    },
+    {
+      "id": "23",
+      "q": "Câu 23: Văn bản quy phạm pháp luật là văn bản do:",
+      "a": "Quốc hội ban hành",
+      "b": "Chủ tịch nước ban hành",
+      "c": "Chính phủ ban hành",
+      "d": "Cơ quan nhà nước có thẩm quyền ban hành",
+      "result": "d"
+    },
+    {
+      "id": "24",
+      "q": "Câu 24: Bộ trưởng có quyền ban hành:",
+      "a": "Quyết định; Nghị quyết",
+      "b": "Quyết định; Lệnh",
+      "c": "Quyết định; Thông tư",
+      "d": "Thông tư",
+      "result": "d"
+    },
+    {
+      "id": "25",
+      "q": "Câu 25: Văn bản quy phạm pháp luật do Hội đồng nhân dân ban hành:",
+      "a": "Quyết định; Nghị quyết",
+      "b": "Quyết định; Chỉ thị",
+      "c": "Nghị quyết",
+      "d": "Quyết định; Thông tư",
+      "result": "c"
+    },
+    {
+      "id": "26",
+      "q": "Câu 26: Văn bản Luật là văn bản do cơ quan nào ban hành?",
+      "a": "Ủy ban thường vụ Quốc hội",
+      "b": "Quốc hội",
+      "c": "Chính phủ",
+      "d": "Tòa án nhân dân tối cao",
+      "result": "b"
+    },
+    {
+      "id": "27",
+      "q": "Câu 27: Trong quá trình hoạt động công vụ, Ủy ban nhân dân Quận Gò Vấp có quyền ban hành loại văn bản nào sau đây?",
+      "a": "Nghị quyết",
+      "b": "Quyết định",
+      "c": "Thông tư",
+      "d": "Không có quyền ban hành các loại văn bản trên",
+      "result": "b"
+    },
+    {
+      "id": "28",
+      "q": "Câu 28: Văn bản nào sau đây thuộc thẩm quyền ban hành của Chủ tịch nước?",
+      "a": "Quyết định",
+      "b": "Nghị quyết",
+      "c": "Thông tư",
+      "d": "Nghị định",
+      "result": "a"
+    },
+    {
+      "id": "29",
+      "q": "Câu 29: Đáp án nào sau đây không phải là văn bản quy phạm pháp luật?",
+      "a": "Quyết định của Thủ tướng chính phủ",
+      "b": "Thông tư của Bộ trưởng Bộ Tài chính",
+      "c": "Điều lệ Hội cựu chiến binh",
+      "d": "Nghị quyết Ủy ban thường vụ quốc hội",
+      "result": "c"
+    },
+    {
+      "id": "30",
+      "q": "Câu 30: Chọn phương án đúng nhất điền vào chỗ trống: ...... của quy phạm pháp luật chứa đựng mệnh lệnh của nhà nước”.",
+      "a": "Bộ phận giả định",
+      "b": "Bộ phận quy định",
+      "c": "Bộ phận chế tài",
+      "d": "Bộ phận quy định và bộ phận chế tài",
+      "result": "b"
     }
   ]
 }
