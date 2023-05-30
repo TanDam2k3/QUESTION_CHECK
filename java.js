@@ -98,3 +98,17 @@ function renderQuestion(question){
     );
     document.getElementById("question").innerHTML += listQuestion.join("");
 }
+
+// Menu
+function onMenu(){
+    var data = document.getElementsByClassName("off");
+    for(var i = 0; i < data.length; i++){
+        data[i].setAttribute("style", "display: block");
+    }
+}
+function offMenu() {
+    var data = document.getElementsByClassName("off");
+    for(var i = 0; i < data.length; i++){
+        data[i].setAttribute("style", "display: none");
+    }
+}

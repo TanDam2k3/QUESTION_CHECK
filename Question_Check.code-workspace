@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "JSON"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Question_Check"
+	}
+}
