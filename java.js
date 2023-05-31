@@ -112,3 +112,64 @@ function offMenu() {
         data[i].setAttribute("style", "display: none");
     }
 }
+
+// Thêm câu hỏi
+function handleSaveQuestion(data, callback){
+    fetch("http://localhost:3000/question",{
+        method: "POST", // *GET, POST, PUT, DELETE, etc.
+        headers: {
+            "Content-Type": "application/json",
+            // 'Content-Type': 'application/x-www-form-urlencoded',
+          },
+        body: JSON.stringify(data), // body data type must match "Content-Type" header
+    })
+    .then(
+        function(reponse){
+            return reponse.json();
+        }
+    )
+    .then(callback);
+}
+
+function saveQuestion() {
+    var idQuestion = document.getElementById("idQuestion").value;
+    var contentQuestion = document.getElementById("contentQuestion").value;
+    var resultA = document.getElementById("resultA").value;
+    var resultB = document.getElementById("resultB").value;
+    var resultC = document.getElementById("resultC").value;
+    var resultD = document.getElementById("resultD").value;
+    var result = document.getElementById("result").value;
+    var data = {
+        id: idQuestion,
+        q: contentQuestion,
+        a: resultA,
+        b: resultB,
+        c: resultC,
+        d: resultD,
+        result : result
+    }
+    handleSaveQuestion(data,getQuestion(renderQuestion));
+}
+
+// Xóa câu hỏi
+function handelDeleteQuestion(idDelete, callback){
+    fetch(`http://localhost:3000/question/${idDelete}`,{
+        method: "DELETE", // *GET, POST, PUT, DELETE, etc.
+        headers: {
+            "Content-Type": "application/json",
+            // 'Content-Type': 'application/x-www-form-urlencoded',
+          },
+    })
+    .then(
+        function(reponse){
+            return reponse.json();
+        }
+    )
+    .then(callback);
+}
+
+function deleteQuestion() {
+    var idDelete = document.getElementById("idDelete").value;
+    handelDeleteQuestion(idDelete,getQuestion(renderQuestion));
+
+}

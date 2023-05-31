@@ -16,15 +16,29 @@
         #function{
             position: fixed;
             bottom: 50px;
-            left: 30px;
+            right: 20px;
         }
         #function .off{
             display: none;
             margin: 5px 0;
         }
+        .offMin{
+                display: none;
+        }
         @media screen and (max-width: 1280px){
             *{
                 font-size: 17px;
+            }
+            .offMin{
+                display: block;
+            }
+            .offMax{
+                display: none;
+            }
+            #function{
+                position: fixed;
+                bottom: 50px;
+                right: 0;
             }
         }
         @media screen and (max-width: 1024px){
@@ -79,9 +93,14 @@
                         <i class="bi bi-x-circle-fill"></i>
                     </div>
                 </li>
-                <li class="nav-item" style="margin: 5px 0;">
+                <li class="nav-item offMax" style="margin: 5px 0;">
                     <div class="btn btn-primary nav-link" onclick="onMenu()">
                         <i class="bi bi-card-list"></i>
+                    </div>
+                </li>
+                <li class="offMin" style="margin: 5px 0;">
+                    <div onclick="onMenu()">
+                        <i class="bi bi-caret-left-fill"></i>
                     </div>
                 </li>
             </ul>
@@ -101,55 +120,52 @@
                         <div class="row">
                             <div class="col-3 text-right">ID</div>
                             <div class="form-group col-9">
-                                <input type="text" name="" id="" class="form-control">
+                                <input type="text" name="" id="idQuestion" class="form-control">
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-3 text-right">Câu hỏi</div>
                             <div class="form-group col-9">
-                                <textarea name="" id="" cols="30" rows="7" class="form-control"></textarea>
+                                <textarea name="" id="contentQuestion" cols="30" rows="7" class="form-control"></textarea>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-3 text-right">Đáp án a</div>
                             <div class="form-group col-9">
-                                <input type="text" name="" id="" class="form-control">
+                                <input type="text" name="" id="resultA" class="form-control">
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-3 text-right">Đáp án b</div>
                             <div class="form-group col-9">
-                                <input type="text" name="" id="" class="form-control">
+                                <input type="text" name="" id="resultB" class="form-control">
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-3 text-right">Đáp án c</div>
                             <div class="form-group col-9">
-                                <input type="text" name="" id="" class="form-control">
+                                <input type="text" name="" id="resultC" class="form-control">
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-3 text-right">Đáp án d</div>
                             <div class="form-group col-9">
-                                <input type="text" name="" id="" class="form-control">
+                                <input type="text" name="" id="resultD" class="form-control">
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-3 text-right">Kết quả</div>
                             <div class="form-group col-9">
-                                <input type="text" name="" id="" class="form-control">
+                                <input type="text" name="" id="result" class="form-control">
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-3 text-right"></div>
                             <div class="form-group col-9">
-                                <button type="button" class="btn btn-success" style="width: 100%;">Lưu</button>
+                                <button type="button" class="btn btn-success" style="width: 100%;" onclick="saveQuestion()">Lưu</button>
                             </div>
                         </div>
                     </form>
-                </div>
-                <div class="modal-footer">
-                    <div class="col-12 text-center"><b>NGUYỄN TẤN ĐÃM</b></div>
                 </div>
             </div>
         </div>
@@ -166,13 +182,13 @@
                     <div class="row">
                         <div class="col-3 text-right">ID</div>
                         <div class="col-9 form-group">
-                            <input type="text" name="" id="" class="form-control" placeholder="ID câu hỏi">
+                            <input type="text" name="" id="idDelete" class="form-control" placeholder="ID câu hỏi">
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-3"></div>
                         <div class="col-9 form-group">
-                            <button type="button" class="btn btn-danger" style="width: 100%;">Xóa</button>
+                            <button type="button" class="btn btn-danger" style="width: 100%;" onclick="deleteQuestion()">Xóa</button>
                         </div>
                     </div>
                 </div>

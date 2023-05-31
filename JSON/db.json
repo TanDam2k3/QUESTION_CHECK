@@ -1,7 +1,7 @@
 {
   "question": [
     {
-      "id": 1,
+      "id": "1",
       "q": "Câu 1: Theo quan điểm của chủ nghĩa Mác-Lênin thì nguyên nhân chủ yếu làm xuất hiện Nhà nước là:",
       "a": "Do có sự phân hóa lao động trong xã hội.",
       "b": "Do có sự phân hóa giai cấp và đấu tranh giai cấp trong xã hội.",
@@ -493,6 +493,15 @@
       "c": "Là người có quyền quyết định những vấn đề quan trọng của đất nước",
       "d": "Là nguyên thủ quốc gia và có quyền quyết định những vấn đề quan trọng nhất của đất nước.",
       "result": "a"
+    },
+    {
+      "id": "56",
+      "q": "Câu 56: Chính phủ nước Cộng hòa Xã hội Chủ nghĩa Việt Nam là:",
+      "a": "Cơ quan trung tâm của Nhà nước, có thẩm quyền trong cả 3 lĩnh vực lập pháp, hành pháp, tư pháp",
+      "b": "Cơ quan Hành chính nhà nước cao nhất, thực hiện quyền hành pháp, tư pháp",
+      "c": "Cơ quan chấp hành của quốc hội, cơ quan hành chính nhà nước cao nhất, thực hiện quyền hành pháp",
+      "d": "Cơ quan hành pháp, ban hành văn bản luật",
+      "result": "c"
     }
   ]
 }
