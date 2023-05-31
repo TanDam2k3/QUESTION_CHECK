@@ -502,6 +502,501 @@
       "c": "Cơ quan chấp hành của quốc hội, cơ quan hành chính nhà nước cao nhất, thực hiện quyền hành pháp",
       "d": "Cơ quan hành pháp, ban hành văn bản luật",
       "result": "c"
+    },
+    {
+      "id": "57",
+      "q": "Câu 57: Chức năng của Viện kiểm sát nhân dân các cấp:",
+      "a": "Kiểm sát hoạt động của cơ quan nhà nước ở địa phương",
+      "b": "Kiểm sát hoạt động tư pháp; Thực hành quyền công tố theo qui định của pháp luật",
+      "c": "Kiểm soát hoạt động của cơ quan nhà nước ở Trung ương",
+      "d": "Kiểm soát hoạt động của tất cả các cơ quan nhà nước",
+      "result": "b"
+    },
+    {
+      "id": "58",
+      "q": "Câu 58: Giá trị pháp lý của “Hiến pháp” và “Bộ luật” được xác định như thế nào?",
+      "a": "Hiến pháp có hiệu lực pháp lý cao hơn Bộ luật",
+      "b": "Bộ luật có hiệu lực pháp lý cao hơn hiến pháp",
+      "c": "Hai loại văn bản này đều có hiệu lực pháp lý ngang nhau",
+      "d": "Hiến pháp là văn bản luật; Bộ luật là văn bản dưới luật với",
+      "result": "a"
+    },
+    {
+      "id": "59",
+      "q": "Câu 59: Trong Bộ máy nhà nước CHXHCN Việt Nam, chức danh nào có thẩm quyền thống lĩnh lực lượng vũ trang nhân dân?",
+      "a": "Bộ trưởng Bộ Công an",
+      "b": "Bộ trưởng Bộ Quốc phòng",
+      "c": "Chủ Tịch Nước",
+      "d": "Thủ tướng Chính Phủ",
+      "result": "c"
+    },
+    {
+      "id": "60",
+      "q": "Câu 60: Nhân ngày UBND phường X xuống sinh hoạt cùng tổ dân phố, ông B xin phát biểu ý kiến nhưng ông L (tổ trưởng dân phố) không cho. Ông B đã bị vi phạm quyền công dân nào?",
+      "a": "Quyền tiếp cận thông tin",
+      "b": "Quyền tự do ngôn luận",
+      "c": "Quyền tố cáo",
+      "d": "Quyền khiếu nại",
+      "result": "b"
+    },
+    {
+      "id": "61",
+      "q": "Câu 61: Tên gọi nào không phải là tên gọi của bộ máy quản lý hành chính của Nhà nước CHXHCN Việt Nam hiện nay?",
+      "a": "Bộ Thủy lợi",
+      "b": "Bộ Công thương HXH",
+      "c": "Bộ Công An",
+      "d": "Bộ Y Tế",
+      "result": "a"
+    },
+    {
+      "id": "62",
+      "q": "Câu 62: Phương pháp điều chỉnh của Luật Hành chính là:",
+      "a": "Phương pháp bình đẳng, thỏa thuận",
+      "b": "Phương pháp độc lập, tự định đoạt",
+      "c": "Phương pháp mệnh lệnh đơn phương",
+      "d": "Phương pháp quyền uy và phương pháp thông qua hoạt động của tổ chức công đoàn",
+      "result": "c"
+    },
+    {
+      "id": "63",
+      "q": "Câu 63: Độ tuổi bắt đầu chịu trách nhiệm hành chính là:",
+      "a": "Đủ 14 tuổi",
+      "b": "14 tuổi",
+      "c": "Từ 14 tuổi",
+      "d": "Bắt đầu từ 14 tuổi",
+      "result": "a"
+    },
+    {
+      "id": "64",
+      "q": "Câu 64: Cơ quan nào sau đây không thực hiện chức năng quản lý nhà nước chủ yếu ở địa phương?",
+      "a": "Ủy ban nhân dân tỉnh",
+      "b": "Sở, phòng, ban ngành chuyên môn",
+      "c": "Tòa án và Viện kiểm sát nhân dân",
+      "d": "Ủy ban nhân dân huyện",
+      "result": "c"
+    },
+    {
+      "id": "65",
+      "q": "Câu 65: Cơ quan nào là cơ quan ngang bộ của bộ máy hành chính Nhà nước CHXHCN Việt Nam hiện nay?",
+      "a": "Ủy ban thể dục, thể thao",
+      "b": "Ủy ban dân số gia đình và trẻ em",
+      "c": "Văn phòng chính phủ",
+      "d": "Cả A, B và C đều đúng",
+      "result": "c"
+    },
+    {
+      "id": "66",
+      "q": "Câu 66: Cơ quan nào không phải là cơ quan ngang bộ của Nhà nước\nCHXHCN Việt Nam hiện nay?\n",
+      "a": "Ngân hàng nhà nước",
+      "b": "Thanh tra chính phủ",
+      "c": "Ủy ban thể dục và thể thao",
+      "d": "Văn phòng chính phủ",
+      "result": "c"
+    },
+    {
+      "id": "67",
+      "q": "Câu 67: Quan hệ nào sau đây là quan hệ pháp luật hành chính?",
+      "a": "Quan hệ giải quyết tranh chấp trong hợp đồng lao động",
+      "b": "Quan hệ về tuyển dụng và sử dụng lao động trong cơ quan nhà nước theo chế độ hợp đồng lao động",
+      "c": "Quan hệ về kỷ luật buộc thôi việc cán bộ, công chức nhà nước vi phạm pháp luật",
+      "d": "Quan hệ về kỷ luật đối với sinh viên của trường đại học X",
+      "result": "c"
+    },
+    {
+      "id": "68",
+      "q": "Câu 68: Chủ thể nào sau đây không thuộc hệ thống các cơ quan hành chính?",
+      "a": "Chính phủ",
+      "b": "UBND các cấp",
+      "c": "Bộ Khoa học và Công nghệ",
+      "d": "Tòa hành chính",
+      "result": "d"
+    },
+    {
+      "id": "69",
+      "q": "Câu 69: Ông Trần Hà là chuyên viên làm việc tại Phòng Quản lý đô thị quận Gò Vấp, theo quy định của Luật cán bộ, công chức thì ông Hà là:",
+      "a": "Cán bộ",
+      "b": "Công chức",
+      "c": "Viên chức",
+      "d": "Người làm công",
+      "result": "b"
+    },
+    {
+      "id": "70",
+      "q": "Câu 70: Ông A xây dựng nhà ở mà không có giấy phép nên thanh tra xây dựng đã lập biên bản, đình chỉ hành vi vi phạm của ông A. Quan hệ giữa ông A và thanh tra xây dựng thuộc đối tượng điều chỉnh của ngành luật nào sau đây:",
+      "a": "Ngành luật dân sự",
+      "b": "Ngành luật hình sự",
+      "c": "Ngành luật xây dựng",
+      "d": "Ngành luật hành chính",
+      "result": "d"
+    },
+    {
+      "id": "71",
+      "q": "Câu 71: Theo quy định của Luật Hôn nhân và gia đình hiện hành thì những trường hợp nào sau đây không bị cấm kết hôn?",
+      "a": "Có quan hệ trong phạm vi ba đời, có cùng dòng máu về trực hệ",
+      "b": "Kết hôn với người bị nhiễm HIV/AIDS",
+      "c": "Người mất năng lực hành vi dân sự",
+      "d": "Giữa cha nuôi và con nuôi",
+      "result": "b"
+    },
+    {
+      "id": "72",
+      "q": "Câu 72: Quan hệ vợ, chồng chấm dứt khi nào:",
+      "a": "Chỉ khi vợ, chồng ly hôn",
+      "b": "Khi vợ, chồng không còn yêu thương nhau và thỏa thuận chia tài sản, sống riêng",
+      "c": "Khi vợ chồng hủy giấy đăng ký kết hôn",
+      "d": "Khi một hoặc hai bên vợ, chồng chết hoặc khi có quyết định cho ly hôn có hiệu lực của Toà án",
+      "result": "d"
+    },
+    {
+      "id": "73",
+      "q": "Câu 73: Tài sản chung của vợ chồng được chia khi nào?",
+      "a": "Chỉ khi vợ, chồng ly hôn",
+      "b": "Khi vợ chồng ly hôn và cả khi hôn nhân còn tồn tại theo quy định pháp luật",
+      "c": "Khi Tòa án cho phép chia",
+      "d": "Chỉ khi vợ chồng thỏa thuận chia",
+      "result": "b"
+    },
+    {
+      "id": "74",
+      "q": "Câu 74: Tài sản riêng của vợ và chồng được hình thành như thế nào?",
+      "a": "Do tự tạo lập trong thời kỳ hôn nhân Đá ",
+      "b": "Do được tặng cho riêng, thừa kế riêng",
+      "c": "Các tài sản có trước thời kỳ hôn nhân không sáp nhập vào tài sản chung",
+      "d": "Do được tặng cho riêng, thừa kế riêng và các tài sản có trước thời kỳ hôn nhân mà không sáp nhập vào tài sản chung",
+      "result": "d"
+    },
+    {
+      "id": "75",
+      "q": "Câu 75: Khi kết hôn thì quyền tự do tín ngưỡng giữa vợ và chồng sẽ do:",
+      "a": "Người chồng quyết định",
+      "b": "Người vợ quyết định",
+      "c": "Phong tục tập quán",
+      "d": "Các bên tự do thỏa thuận về việc theo hoặc không theo một tín ngưỡng nào",
+      "result": "d"
+    },
+    {
+      "id": "76",
+      "q": "Câu 76: Tảo hôn là việc:",
+      "a": "Kết hôn do cưỡng ép, lừa dối",
+      "b": "Kết hôn trái pháp luật",
+      "c": "Kết hôn khi chưa đủ tuổi",
+      "d": "Kết hôn không tự nguyện",
+      "result": "c"
+    },
+    {
+      "id": "77",
+      "q": "Câu 77: Quan hệ hôn nhân chấm dứt kể từ ngày:",
+      "a": "Vợ, chồng hoặc cả vợ và chồng nộp đơn yêu cầu giải quyết ly hôn cho Tòa án",
+      "b": "Tòa án thụ lý đơn yêu cầu giải quyết ly hôn",
+      "c": "Tòa án ra bản án, quyết định cho ly hôn",
+      "d": "Có bản án, quyết định cho ly hôn có hiệu lực của Tòa án",
+      "result": "d"
+    },
+    {
+      "id": "78",
+      "q": "Câu 78: Nhận định nào sau đây là ĐÚNG khi nghiên cứu về Luật Hôn nhân và gia đình hiện hành?",
+      "a": "Nam nữ sống chung từ trước ngày 01/01/2001 đều được công nhận là vợ chồng",
+      "b": "Khi ly hôn việc giao con chung từ đủ 7 tuổi trở lên cho cha hoặc mẹ nuôi phải xem xét vào nguyện vọng của con",
+      "c": "Luật Hôn nhân và gia đình năm 2014 quy định thừa nhận hôn nhân đồng tính",
+      "d": "Người từ đủ 18 tuổi trở lên và có trạng thái thần kinh bình thường là người có năng lực hành vi hôn nhân",
+      "result": "b"
+    },
+    {
+      "id": "79",
+      "q": "Câu 79: Nhận định nào sau đây là ĐÚNG khi nghiên cứu về Luật Hôn nhân và gia đình hiện hành?",
+      "a": "Tài sản chung của vợ chồng phải là tài sản có được trong thời kỳ hôn nhân",
+      "b": "Mọi tài sản mà vợ hoặc chồng tạo dựng trong thời kỳ hôn nhân đều là tài sản chung",
+      "c": "Tài sản chung của vợ chồng chỉ được chia khi vợ chồng ly hôn",
+      "d": "Trong thời kỳ hôn nhân vẫn có thể chia tài sản chung của vợ chồng",
+      "result": "d"
+    },
+    {
+      "id": "80",
+      "q": "Câu 80: Anh Bi, chị Lượm tổ chức đám cưới ngày 15/10/2010, cả hai đăng ký kết hôn ngày 30/11/2011. Do vợ chồng có nhiều mâu thuẫn, ngày 25/7/2020 chị Lượm nộp đơn xin ly hôn tại tòa án có thẩm quyền. Ngày 30/9/2020 Tòa án ra bản án có hiệu lực pháp luật tuyên anh Bi, chị Lượm ly hôn. Vậy thời kỳ hôn nhân của anh Bi và chị Lượm sẽ được tính:",
+      "a": "Từ ngày 15/10/2010 đến ngày 25/7/2020",
+      "b": "Từ ngày 30/11/2011 đến ngày 25/7/2020",
+      "c": "Từ ngày 30/11/2011 đến ngày 30/9/2020",
+      "d": "Từ ngày 15/10/2010 đến ngày 30/9/2020",
+      "result": "c"
+    },
+    {
+      "id": "81",
+      "q": "Câu 81: Đối tượng điều chỉnh của ngành luật Lao động là:",
+      "a": "Quan hệ lao động",
+      "b": "Quan hệ việc làm",
+      "c": "Các quan hệ liên quan đến hoạn hệ quan hệ lao động",
+      "d": "Quan hệ lao động và các quan hệ xã hội liên quan trực tiếp với quan hệ lao động",
+      "result": "d"
+    },
+    {
+      "id": "82",
+      "q": "Câu 82: Tiền lương là một chế định của ngành luật:",
+      "a": "Dân sự",
+      "b": "Hành chính",
+      "c": "Bảo hiểm xã hội",
+      "d": "Lao động",
+      "result": "d"
+    },
+    {
+      "id": "83",
+      "q": "Câu 83: Phương pháp điều chỉnh được sử dụng phổ biến trong quan hệ lao động là:",
+      "a": "Phương pháp thỏa thuận",
+      "b": "Phương pháp mệnh lệnh",
+      "c": "Phương pháp tác động của tổ chức Công đoàn",
+      "d": "Phương pháp mệnh lệnh - phục tùng",
+      "result": "a"
+    },
+    {
+      "id": "84",
+      "q": "Câu 84: Hợp đồng lao động phải có nội dung chủ yếu nào sau đây:",
+      "a": "Công việc phải làm",
+      "b": "Tiền lương",
+      "c": "Điều kiện về an toàn lao động, vệ sinh lao động và bảo hiểm xã hội đối với người lao động",
+      "d": "Tiền lương, công việc phải làm, điều kiện về an toàn lao động, vệ sinh lao động và bảo hiểm xã hội đối với người lao động",
+      "result": "d"
+    },
+    {
+      "id": "85",
+      "q": "Câu 85: Thời giờ làm việc theo qui định của Bộ luật Lao động là:",
+      "a": "Không quá 12 giờ trong một ngày",
+      "b": "Từ 8 đến 10 giờ trong một ngày",
+      "c": "Tùy thỏa thuận giữa người lao động và người sử dụng lao động",
+      "d": "Không quá 8 giờ trong một ngày và 48 giờ trong một tuần",
+      "result": "d"
+    },
+    {
+      "id": "86",
+      "q": "Câu 86: Bộ luật lao động hiện hành quy định: tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận nhưng:",
+      "a": "Ít nhất phải bằng 85% mức lương của công việc đó",
+      "b": "Ít nhất phải bằng 50% mức lương của công việc đó",
+      "c": "Ít nhất phải bằng 60% mức lương của công việc đó",
+      "d": "Ít nhất phải bằng 70% mức lương của công việc đó",
+      "result": "a"
+    },
+    {
+      "id": "87",
+      "q": "Câu 87: Theo Bộ luật lao động hiện hành thì trong trường hợp nào người lao động được nghỉ mà KHÔNG hưởng nguyên lương?",
+      "a": "Kết hôn cho bản thân",
+      "b": "Kết hôn cho con",
+      "c": "Bố đẻ, mẹ đẻ, bố vợ, mẹ vợ hoặc bố chồng, mẹ chồng chết; vợ chết hoặc chồng chết; con chết",
+      "d": "Kết hôn cho anh, chị, em ruột",
+      "result": "d"
+    },
+    {
+      "id": "88",
+      "q": "Câu 88: “Linh là công nhân làm việc tại công ty X từ năm 2015, đã tham gia bảo hiểm xã hội bắt buộc. Từ tháng 5/2017 mức lương của Linh là 5.700.000 đ/tháng”. Theo quy định pháp luật lao động hiện hành thì tiền lương của Linh sau khi trừ đi số tiền đóng quỹ bảo hiểm xã hội bắt buộc là bao nhiêu:",
+      "a": "5.244.000 ₫",
+      "b": "5.301.000 ₫",
+      "c": "5.358.000 ₫",
+      "d": "5.415.000 ₫",
+      "result": "a"
+    },
+    {
+      "id": "89",
+      "q": "Câu 89: Anh Nhật được công ty X nhận vào làm việc ở vị trí kỹ sư điện tử từ tháng 9/2017. Công ty yêu cầu anh Nhật phải thử việc trước khi ki hợp đồng lao động với anh. Theo quy định của pháp luật hiện hành thì:",
+      "a": "Anh Nhật chỉ thử việc 01 lần và thời gian thử việc tối đa là 60 ngày.",
+      "b": "Anh Nhật được thử việc tối đa 02 lần và mỗi lần thử việc tối đa là\n60 ngày.\n",
+      "c": "Anh Nhật có thể thử việc nhiều lần nhưng tổng thời gian thử việc tối đa là 60 ngày.",
+      "d": "Anh Nhật phải thử việc nhiều lần cho đến khi thành thạo công việc",
+      "result": "c"
+    },
+    {
+      "id": "90",
+      "q": "Câu 90: Sự thỏa thuận nào làm phát sinh hợp đồng dân sự?",
+      "a": "Mọi sự thỏa thuận bằng ngôn ngữ cơ thể",
+      "b": "Mọi sự thỏa thuận đuợc lập thành văn bản",
+      "c": "Mọi sự thỏa thuận nhằm làm phát sinh, thay đổi, chấm dứt quyền và nghĩa vụ dân sự",
+      "d": "Mọi sự thỏa thuận bằng lời nói",
+      "result": "c"
+    },
+    {
+      "id": "91",
+      "q": "Câu 91: Việc chiếm hữu của một người với đối với một tài sản nhưng không biết đó là chiếm hữu bất hợp pháp thì",
+      "a": "Đều là chiếm hữu hợp pháp",
+      "b": "Có thể là chiếm hữu bất hợp pháp ngay tình hoặc chiếm hữu bất hợp pháp không ngay tình",
+      "c": "Đều là chiếm hữu bất hợp pháp ngay tình",
+      "d": "Đều là chiếm hữu bất hợp pháp không ngay tình",
+      "result": "b"
+    },
+    {
+      "id": "92",
+      "q": "Câu 92: Diện những người thừa kế theo pháp luật bao gồm:",
+      "a": "Những người có tên trong nội dung của di chúc",
+      "b": "Những người theo thứ tự hàng thừa kế được quy định tại Bộ luật dân sự",
+      "c": "Vợ, chồng; cha, mẹ; các con; người giám hộ của người để lại di sản",
+      "d": "Những người có quan hệ huyết thống trong phạm vi ba đời với người để lại di sản",
+      "result": "b"
+    },
+    {
+      "id": "93",
+      "q": "Câu 93: Trình tự, thủ tục giải quyết một vụ án dân sự nói chung là:",
+      "a": "Thụ lý vụ án – hòa giải — xét xử sơ thẩm – thi hành án dân sự",
+      "b": "Xét xứ sơ thẩm – xét xử phúc thẩm – xét lại bản án theo thủ tục giám đốc thẩm, tái thẩm",
+      "c": "Hòa giải – xét xử sơ thẩm – xét xử phúc thẩm",
+      "d": "Xét xử sơ thẩm – xét xử phúc thẩm",
+      "result": "a"
+    },
+    {
+      "id": "94",
+      "q": "Câu 94: Thừa kế là gì?",
+      "a": "Là việc chuyển quyền sở hữu đối với tài sản của cha mẹ, ông bà cho con, cháu",
+      "b": "Là việc chuyển quyền sở hữu đối với tài sản của người chết cho người thừa kế thông qua ý nguyện cá nhân bằng di chúc hoặc căn cứ vào qui định của pháp luật",
+      "c": "Là việc chuyển quyền sở hữu đối với tài sản của người chết cho con cháu và được lập thành văn bản theo qui định của pháp luật",
+      "d": "Là việc chuyển dịch tài sản từ người này sang người khác",
+      "result": "b"
+    },
+    {
+      "id": "95",
+      "q": "Câu 95: Người để lại di sản thừa kế là:",
+      "a": "Tổ chức hoặc cá nhân đã chết có tài sản để lại",
+      "b": "Cá nhân có tài sản muốn để lại cho con cháu và đã lập thành di chúc",
+      "c": "Cá nhân đã chết có tài sản để lại",
+      "d": "Người lập di chúc để lại tài sản của mình cho người thân",
+      "result": "a"
+    },
+    {
+      "id": "96",
+      "q": "Câu 96: Theo quy định của Bộ luật dân sự hiện hành thì người thừa kế có thể là:",
+      "a": "Cá nhân, tổ chức",
+      "b": "Tổ chức, cơ quan Nhà nước",
+      "c": "Cơ quan Nhà nước",
+      "d": "Cá nhân, tổ chức, cơ quan Nhà nước",
+      "result": "d"
+    },
+    {
+      "id": "97",
+      "q": "Câu 97: Hình thức thừa kế theo di chúc bao gồm:",
+      "a": "Di chúc bằng văn bản",
+      "b": "Di chúc bằng văn bản có người làm chứng",
+      "c": "Di chúc bằng văn bản có công chứng",
+      "d": "Di chúc bằng văn bản không có người làm chứng, di chúc bằng văn bản có người làm chứng, di chúc bằng văn bản có công chứng chứng thực",
+      "result": "d"
+    },
+    {
+      "id": "98",
+      "q": "Câu 98: Hàng thừa kế thứ nhất theo quy định của pháp luật bao gồm:",
+      "a": "Vợ, chồng",
+      "b": "Cha mẹ đẻ, con đẻ",
+      "c": "Cha mẹ nuôi, con nuôi",
+      "d": "Vợ, chồng; cha mẹ đẻ, con đẻ; cha mẹ nuôi, con nuôi",
+      "result": "b"
+    },
+    {
+      "id": "99",
+      "q": "Câu 99: “Anh A chạy xe máy va chạm với xe máy của anh X làm anh X ngã xuống đường. Anh A dừng xe và đỡ anh X nhưng anh X cố tình đẩy đổ xe máy của anh A làm gương xe bị vỡ. Hỏi: anh X có trách nhiệm gì trong trường hợp này?",
+      "a": "Không chịu bất kỳ trách nhiệm nào",
+      "b": "Chịu trách nhiệm do vi phạm hành chính",
+      "c": "Chịu trách nhiệm do vi phạm hình sự",
+      "d": "Chịu trách nhiệm do gây ra thiệt hại dân sự",
+      "result": "d"
+    },
+    {
+      "id": "100",
+      "q": "Câu 100: Theo quy định của Bộ luật hình sự hiện hành thì hệ thống hình phạt gồm:",
+      "a": "Hình phạt tù giam và các hình phạt khác",
+      "b": "Hình phạt cơ bản và hình phạt không cơ bản",
+      "c": "Hình phạt chủ yếu và hình phạt không chủ yếu",
+      "d": "Các hình phạt chính và các hình phạt bổ sung",
+      "result": "a"
+    },
+    {
+      "id": "101",
+      "q": "Câu 101: Hình phạt trong Bộ luật Hình sự hiện hành được áp dụng nhằm mục đích chính là:",
+      "a": "Trừng phạt người phạm tội, giáo dục, răn đe và đấu tranh phòng chống tội phạm",
+      "b": "Bắt người phạm tội bồi thường thiệt hại đã gây ra",
+      "c": "Lên án, công kích, hạ thấp giá trị của người phạm tội",
+      "d": "Khuyên nhủ, thuyết phục mọi người không thực hiện hành vi phạm tội",
+      "result": "a"
+    },
+    {
+      "id": "102",
+      "q": "Câu 102: Phụ nữ có thai hoặc đang nuôi con dưới 36 tháng tuổi khi phạm tội không áp dụng hình phạt nào sau đây?",
+      "a": "Tù chung thân",
+      "b": "Tử hình",
+      "c": "Tù chung thân và tử hình",
+      "d": "Tù có thời hạn",
+      "result": "b"
+    },
+    {
+      "id": "103",
+      "q": "Câu 103: Hình phạt cấm cư trú là:",
+      "a": "Hình phạt bổ sung",
+      "b": "Hình phạt chính",
+      "c": "Hình phạt hỗ trợ",
+      "d": "Hình phạt ít nghiêm trọng",
+      "result": "a"
+    },
+    {
+      "id": "104",
+      "q": "Câu 104: Hình phạt quản chế được áp dụng với thời hạn từ 01 năm đến 05 năm, kể từ ngày:",
+      "a": "Chấp hành xong hình phạt",
+      "b": "Tòa tuyên án",
+      "c": "Bản án có hiệu lực pháp luật",
+      "d": "Chấp hành xong hình phạt tù",
+      "result": "d"
+    },
+    {
+      "id": "105",
+      "q": "Câu 105: Tòa án có thể cho hưởng án treo và ấn định thời gian thử thách theo quy định pháp luật cho người phạm tội khi họ bị xử phạt tù thời hạn:",
+      "a": "Không quá 03 năm",
+      "b": "Không quá 03 tháng",
+      "c": "Không quá 01 năm",
+      "d": "Không quá 05 năm",
+      "result": "a"
+    },
+    {
+      "id": "106",
+      "q": "Câu 106: Hình phạt trục xuất chỉ áp dụng với:",
+      "a": "Người không có quốc tịch",
+      "b": "Công dân Việt Nam",
+      "c": "Người nước ngoài",
+      "d": "Công dân Việt Nam định cư ở nước ngoài",
+      "result": "c"
+    },
+    {
+      "id": "107",
+      "q": "Câu 107: Hình phạt tử hình là:",
+      "a": "Tước quyền công dân của người phạm tội",
+      "b": "Tước quyền được sống của người phạm tội",
+      "c": "Cách ly người phạm tội ra khỏi xã hội vĩnh viễn",
+      "d": "Cách ly người phạm tội khỏi xã hội một thời gian",
+      "result": "b"
+    },
+    {
+      "id": "108",
+      "q": "Câu 108: Biện pháp cưỡng chế nào sau đây là hình phạt ?",
+      "a": "Cải tạo không giam giữ",
+      "b": "Án treo",
+      "c": "Giáo dục tại xã, phường, thị trấn",
+      "d": "Tịch thu phương tiện phạm tội",
+      "result": "a"
+    },
+    {
+      "id": "109",
+      "q": "Câu 109: Hình phạt được áp dụng khi:",
+      "a": "Bản án có hiệu lực pháp luật",
+      "b": "Bị Tòa án đưa ra xét xử",
+      "c": "Bị khởi tố",
+      "d": "Bị truy tố",
+      "result": "a"
+    },
+    {
+      "id": "110",
+      "q": "Câu 110: Cấu thành tội phạm tham nhũng là:",
+      "a": "Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi.",
+      "b": "Người có hành vi nhũng nhiễu nhân dân lấy của.",
+      "c": "Hành vi của người có chức vụ, quyền hạn đã lợi dụng chức vụ, quyền hạn đó vì vụ lợi với giá trị 01 triệu đồng.",
+      "d": "Hành vi của người không có chức vụ quyền hạn nhưng làm thất thoát tài sản của Nhà nước",
+      "result": "a"
+    },
+    {
+      "id": "111",
+      "q": "Câu 111: Đặc trưng của tội tham nhũng là:",
+      "a": "Chủ thể tham nhũng là người có chức vụ, quyền hạn nhưng tham nhũng dưới 2 triệu đồng",
+      "b": "Chủ thể tham nhũng lợi dụng chức vụ, quyền hạn được giao nhưng do yếu kém chuyên môn là thất thoát tài sản",
+      "c": "Mục đích của hành vi tham nhũng là không vì vụ lợi",
+      "d": "Chủ thể tham nhũng là người có chức vụ, quyền hạn",
+      "result": "d"
     }
   ]
 }
